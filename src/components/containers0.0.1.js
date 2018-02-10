@@ -14,7 +14,7 @@ export default class Container1 extends Component {
         const CHILDS = React.Children.toArray(this.props.children)
         this.setState({ childs: CHILDS })
     }
-
+// <a-plane color='lightgray' width="30" height="30"></a-plane>
     render() {
         return (
             <Scene>
@@ -23,7 +23,7 @@ export default class Container1 extends Component {
                     <a-entity camera look-controls wasd-controls></a-entity>
                 </a-camera>
                 {this.state.childs}
-                <a-plane color='black' rotation="-90 0 0" width="30" height="30"></a-plane>
+                
             </Scene>
         )
     }
