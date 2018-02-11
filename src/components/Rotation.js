@@ -6,8 +6,10 @@ export default function (str) {
             return "0 -90 0"
         case 'back':
             return "0 180 0"
-        case 'up':
+        case 'up-down':
             return "-90 0 180"
+        case 'up-up':
+            return "-90 180 -180"
         case 'down':
             return "-90 0 0"
         default:
