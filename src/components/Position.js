@@ -254,24 +254,444 @@ export default function (num) {
 
         case '401.0':
             return "-15 4 15"
+        case '401.1':
+            return "-14 4 15"
+        case '401.2':
+            return "-13 4 15"
+        case '401.3':
+            return "-12 4 15"
+        case '401.4':
+            return "-11 4 15"
+        case '401.5':
+            return "-10 4 15"
+        case '401.6':
+            return "-9 4 15"
+        case '401.7':
+            return "-8 4 15"
+        case '401.8':
+            return "-7 4 15"
+        case '401.9':
+            return "-6 4 15"
+        case '401.10':
+            return "-5 4 15"
+        case '401.11':
+            return "-4 4 15"
+        case '401.12':
+            return "-3 4 15"
+        case '401.13':
+            return "-2 4 15"
+        case '401.14':
+            return "-1 4 15"
+        case '401.15':
+            return "0 4 15"
+        case '401.16':
+            return "1 4 15"
+        case '401.17':
+            return "2 4 15"
+        case '401.18':
+            return "3 4 15"
+        case '401.19':
+            return "4 4 15"
+        case '401.20':
+            return "5 4 15"
+        case '401.21':
+            return "6 4 15"
+        case '401.22':
+            return "7 4 15"
+        case '401.23':
+            return "8 4 15"
+        case '401.24':
+            return "9 4 15"
+        case '401.25':
+            return "10 4 15"
+        case '401.26':
+            return "11 4 15"
+        case '401.27':
+            return "12 4 15"
+        case '401.28':
+            return "13 4 15"
+        case '401.29':
+            return "14 4 15"
+        case '401.30':
+            return "15 4 15"
 
         case '501.0':
             return "-15 5 15"
+        case '501.1':
+            return "-14 5 15"
+        case '501.2':
+            return "-13 5 15"
+        case '501.3':
+            return "-12 5 15"
+        case '501.4':
+            return "-11 5 15"
+        case '501.5':
+            return "-10 5 15"
+        case '501.6':
+            return "-9 5 15"
+        case '501.7':
+            return "-8 5 15"
+        case '501.8':
+            return "-7 5 15"
+        case '501.9':
+            return "-6 5 15"
+        case '501.10':
+            return "-5 5 15"
+        case '501.11':
+            return "-4 5 15"
+        case '501.12':
+            return "-3 5 15"
+        case '501.13':
+            return "-2 5 15"
+        case '501.14':
+            return "-1 5 15"
+        case '501.15':
+            return "0 5 15"
+        case '501.16':
+            return "1 5 15"
+        case '501.17':
+            return "2 5 15"
+        case '501.18':
+            return "3 5 15"
+        case '501.19':
+            return "4 5 15"
+        case '501.20':
+            return "5 5 15"
+        case '501.21':
+            return "6 5 15"
+        case '501.22':
+            return "7 5 15"
+        case '501.23':
+            return "8 5 15"
+        case '501.24':
+            return "9 5 15"
+        case '501.25':
+            return "10 5 15"
+        case '501.26':
+            return "11 5 15"
+        case '501.27':
+            return "12 5 15"
+        case '501.28':
+            return "13 5 15"
+        case '501.29':
+            return "14 5 15"
+        case '501.30':
+            return "15 5 15"
 
         case '601.0':
             return "-15 6 15"
+        case '601.1':
+            return "-14 6 15"
+        case '601.2':
+            return "-13 6 15"
+        case '601.3':
+            return "-12 6 15"
+        case '601.4':
+            return "-11 6 15"
+        case '601.5':
+            return "-10 6 15"
+        case '601.6':
+            return "-9 6 15"
+        case '601.7':
+            return "-8 6 15"
+        case '601.8':
+            return "-7 6 15"
+        case '601.9':
+            return "-6 6 15"
+        case '601.10':
+            return "-5 6 15"
+        case '601.11':
+            return "-4 6 15"
+        case '601.12':
+            return "-3 6 15"
+        case '601.13':
+            return "-2 6 15"
+        case '601.14':
+            return "-1 6 15"
+        case '601.15':
+            return "0 6 15"
+        case '601.16':
+            return "1 6 15"
+        case '601.17':
+            return "2 6 15"
+        case '601.18':
+            return "3 6 15"
+        case '601.19':
+            return "4 6 15"
+        case '601.20':
+            return "5 6 15"
+        case '601.21':
+            return "6 6 15"
+        case '601.22':
+            return "7 6 15"
+        case '601.23':
+            return "8 6 15"
+        case '601.24':
+            return "9 6 15"
+        case '601.25':
+            return "10 6 15"
+        case '601.26':
+            return "11 6 15"
+        case '601.27':
+            return "12 6 15"
+        case '601.28':
+            return "13 6 15"
+        case '601.29':
+            return "14 6 15"
+        case '601.30':
+            return "15 6 15"
 
         case '701.0':
             return "-15 7 15"
+        case '701.1':
+            return "-14 7 15"
+        case '701.2':
+            return "-13 7 15"
+        case '701.3':
+            return "-12 7 15"
+        case '701.4':
+            return "-11 7 15"
+        case '701.5':
+            return "-10 7 15"
+        case '701.6':
+            return "-9 7 15"
+        case '701.7':
+            return "-8 7 15"
+        case '701.8':
+            return "-7 7 15"
+        case '701.9':
+            return "-6 7 15"
+        case '701.10':
+            return "-5 7 15"
+        case '701.11':
+            return "-4 7 15"
+        case '701.12':
+            return "-3 7 15"
+        case '701.13':
+            return "-2 7 15"
+        case '701.14':
+            return "-1 7 15"
+        case '701.15':
+            return "0 7 15"
+        case '701.16':
+            return "1 7 15"
+        case '701.17':
+            return "2 7 15"
+        case '701.18':
+            return "3 7 15"
+        case '701.19':
+            return "4 7 15"
+        case '701.20':
+            return "5 7 15"
+        case '701.21':
+            return "6 7 15"
+        case '701.22':
+            return "7 7 15"
+        case '701.23':
+            return "8 7 15"
+        case '701.24':
+            return "9 7 15"
+        case '701.25':
+            return "10 7 15"
+        case '701.26':
+            return "11 7 15"
+        case '701.27':
+            return "12 7 15"
+        case '701.28':
+            return "13 7 15"
+        case '701.29':
+            return "14 7 15"
+        case '701.30':
+            return "15 7 15"
 
         case '801.0':
             return "-15 8 15"
+        case '801.1':
+            return "-14 8 15"
+        case '801.2':
+            return "-13 8 15"
+        case '801.3':
+            return "-12 8 15"
+        case '801.4':
+            return "-11 8 15"
+        case '801.5':
+            return "-10 8 15"
+        case '801.6':
+            return "-9 8 15"
+        case '801.7':
+            return "-8 8 15"
+        case '801.8':
+            return "-7 8 15"
+        case '801.9':
+            return "-6 8 15"
+        case '801.10':
+            return "-5 8 15"
+        case '801.11':
+            return "-4 8 15"
+        case '801.12':
+            return "-3 8 15"
+        case '801.13':
+            return "-2 8 15"
+        case '801.14':
+            return "-1 8 15"
+        case '801.15':
+            return "0 8 15"
+        case '801.16':
+            return "1 8 15"
+        case '801.17':
+            return "2 8 15"
+        case '801.18':
+            return "3 8 15"
+        case '801.19':
+            return "4 8 15"
+        case '801.20':
+            return "5 8 15"
+        case '801.21':
+            return "6 8 15"
+        case '801.22':
+            return "7 8 15"
+        case '801.23':
+            return "8 8 15"
+        case '801.24':
+            return "9 8 15"
+        case '801.25':
+            return "10 8 15"
+        case '801.26':
+            return "11 8 15"
+        case '801.27':
+            return "12 8 15"
+        case '801.28':
+            return "13 8 15"
+        case '801.29':
+            return "14 8 15"
+        case '801.30':
+            return "15 8 15"
 
         case '901.0':
             return "-15 9 15"
+        case '901.1':
+            return "-14 9 15"
+        case '901.2':
+            return "-13 9 15"
+        case '901.3':
+            return "-12 9 15"
+        case '901.4':
+            return "-11 9 15"
+        case '901.5':
+            return "-10 9 15"
+        case '901.6':
+            return "-9 9 15"
+        case '901.7':
+            return "-8 9 15"
+        case '901.8':
+            return "-7 9 15"
+        case '901.9':
+            return "-6 9 15"
+        case '901.10':
+            return "-5 9 15"
+        case '901.11':
+            return "-4 9 15"
+        case '901.12':
+            return "-3 9 15"
+        case '901.13':
+            return "-2 9 15"
+        case '901.14':
+            return "-1 9 15"
+        case '901.15':
+            return "0 9 15"
+        case '901.16':
+            return "1 9 15"
+        case '901.17':
+            return "2 9 15"
+        case '901.18':
+            return "3 9 15"
+        case '901.19':
+            return "4 9 15"
+        case '901.20':
+            return "5 9 15"
+        case '901.21':
+            return "6 9 15"
+        case '901.22':
+            return "7 9 15"
+        case '901.23':
+            return "8 9 15"
+        case '901.24':
+            return "9 9 15"
+        case '901.25':
+            return "10 9 15"
+        case '901.26':
+            return "11 9 15"
+        case '901.27':
+            return "12 9 15"
+        case '901.28':
+            return "13 9 15"
+        case '901.29':
+            return "14 9 15"
+        case '901.30':
+            return "15 9 15"
 
         case '1001.0':
             return "-15 10 15"
+        case '1001.1':
+            return "-14 10 15"
+        case '1001.2':
+            return "-13 10 15"
+        case '1001.3':
+            return "-12 10 15"
+        case '1001.4':
+            return "-11 10 15"
+        case '1001.5':
+            return "-10 10 15"
+        case '1001.6':
+            return "-9 10 15"
+        case '1001.7':
+            return "-8 10 15"
+        case '1001.8':
+            return "-7 10 15"
+        case '1001.9':
+            return "-6 10 15"
+        case '1001.10':
+            return "-5 10 15"
+        case '1001.11':
+            return "-4 10 15"
+        case '1001.12':
+            return "-3 10 15"
+        case '1001.13':
+            return "-2 10 15"
+        case '1001.14':
+            return "-1 10 15"
+        case '1001.15':
+            return "0 10 15"
+        case '1001.16':
+            return "1 10 15"
+        case '1001.17':
+            return "2 10 15"
+        case '1001.18':
+            return "3 10 15"
+        case '1001.19':
+            return "4 10 15"
+        case '1001.20':
+            return "5 10 15"
+        case '1001.21':
+            return "6 10 15"
+        case '1001.22':
+            return "7 10 15"
+        case '1001.23':
+            return "8 10 15"
+        case '1001.24':
+            return "9 10 15"
+        case '1001.25':
+            return "10 10 15"
+        case '1001.26':
+            return "11 10 15"
+        case '1001.27':
+            return "12 10 15"
+        case '1001.28':
+            return "13 10 15"
+        case '1001.29':
+            return "14 10 15"
+        case '1001.30':
+            return "15 10 15"
 
         case '1101.0':
             return "-15 11 15"
@@ -351,6 +771,36 @@ export default function (num) {
         case '2.30':
             return "15 0 14"
 
+        case '102.0':
+            return "-15 1 14"
+
+        case '202.0':
+            return "-15 2 14"
+
+        case '302.0':
+            return "-15 3 14"
+
+        case '402.0':
+            return "-15 4 14"
+
+        case '502.0':
+            return "-15 5 14"
+
+        case '602.0':
+            return "-15 6 14"
+
+        case '702.0':
+            return "-15 7 14"
+
+        case '802.0':
+            return "-15 8 14"
+
+        case '902.0':
+            return "-15 9 14"
+
+        case '1002.0':
+            return "-15 10 14"
+
         case '3.0':
             return "-15 0 13"
         case '3.1':
@@ -413,6 +863,36 @@ export default function (num) {
             return "14 0 13"
         case '3.30':
             return "15 0 13"
+
+        case '103.0':
+            return "-15 1 13"
+
+        case '203.0':
+            return "-15 2 13"
+
+        case '303.0':
+            return "-15 3 13"
+
+        case '403.0':
+            return "-15 4 13"
+
+        case '503.0':
+            return "-15 5 13"
+
+        case '603.0':
+            return "-15 6 13"
+
+        case '703.0':
+            return "-15 7 13"
+
+        case '803.0':
+            return "-15 8 13"
+
+        case '903.0':
+            return "-15 9 13"
+
+        case '1003.0':
+            return "-15 10 13"
 
         case '4.0':
             return "-15 0 12"
@@ -477,6 +957,36 @@ export default function (num) {
         case '4.30':
             return "15 0 12"
 
+        case '104.0':
+            return "-15 1 12"
+
+        case '204.0':
+            return "-15 2 12"
+
+        case '304.0':
+            return "-15 3 12"
+
+        case '404.0':
+            return "-15 4 12"
+
+        case '504.0':
+            return "-15 5 12"
+
+        case '604.0':
+            return "-15 6 12"
+
+        case '704.0':
+            return "-15 7 12"
+
+        case '804.0':
+            return "-15 8 12"
+
+        case '904.0':
+            return "-15 9 12"
+
+        case '1004.0':
+            return "-15 10 12"
+
         case '5.0':
             return "-15 0 11"
         case '5.1':
@@ -539,6 +1049,36 @@ export default function (num) {
             return "14 0 11"
         case '5.30':
             return "15 0 11"
+
+        case '105.0':
+            return "-15 1 11"
+
+        case '205.0':
+            return "-15 2 11"
+
+        case '305.0':
+            return "-15 3 11"
+
+        case '405.0':
+            return "-15 4 11"
+
+        case '505.0':
+            return "-15 5 11"
+
+        case '605.0':
+            return "-15 6 11"
+
+        case '705.0':
+            return "-15 7 11"
+
+        case '805.0':
+            return "-15 8 11"
+
+        case '905.0':
+            return "-15 9 11"
+
+        case '1005.0':
+            return "-15 10 11"
 
         case '6.0':
             return "-15 0 10"
@@ -603,6 +1143,36 @@ export default function (num) {
         case '6.30':
             return "15 0 10"
 
+        case '106.0':
+            return "-15 1 10"
+
+        case '206.0':
+            return "-15 2 10"
+
+        case '306.0':
+            return "-15 3 10"
+
+        case '406.0':
+            return "-15 4 10"
+
+        case '506.0':
+            return "-15 5 10"
+
+        case '606.0':
+            return "-15 6 10"
+
+        case '706.0':
+            return "-15 7 10"
+
+        case '806.0':
+            return "-15 8 10"
+
+        case '906.0':
+            return "-15 9 10"
+
+        case '1006.0':
+            return "-15 10 10"
+
         case '7.0':
             return "-15 0 9"
         case '7.1':
@@ -665,6 +1235,36 @@ export default function (num) {
             return "14 0 9"
         case '7.30':
             return "15 0 9"
+
+        case '107.0':
+            return "-15 1 9"
+
+        case '207.0':
+            return "-15 2 9"
+
+        case '307.0':
+            return "-15 3 9"
+
+        case '407.0':
+            return "-15 4 9"
+
+        case '507.0':
+            return "-15 5 9"
+
+        case '607.0':
+            return "-15 6 9"
+
+        case '707.0':
+            return "-15 7 9"
+
+        case '807.0':
+            return "-15 8 9"
+
+        case '907.0':
+            return "-15 9 9"
+
+        case '1007.0':
+            return "-15 10 9"
 
         case '8.0':
             return "-15 0 8"
@@ -729,6 +1329,36 @@ export default function (num) {
         case '8.30':
             return "15 0 8"
 
+        case '108.0':
+            return "-15 1 8"
+
+        case '208.0':
+            return "-15 2 8"
+
+        case '308.0':
+            return "-15 3 8"
+
+        case '408.0':
+            return "-15 4 8"
+
+        case '508.0':
+            return "-15 5 8"
+
+        case '608.0':
+            return "-15 6 8"
+
+        case '708.0':
+            return "-15 7 8"
+
+        case '808.0':
+            return "-15 8 8"
+
+        case '908.0':
+            return "-15 9 8"
+
+        case '1008.0':
+            return "-15 10 8"
+
         case '9.0':
             return "-15 0 7"
         case '9.1':
@@ -791,6 +1421,36 @@ export default function (num) {
             return "14 0 7"
         case '9.30':
             return "15 0 7"
+
+        case '109.0':
+            return "-15 1 7"
+
+        case '209.0':
+            return "-15 2 7"
+
+        case '309.0':
+            return "-15 3 7"
+
+        case '409.0':
+            return "-15 4 7"
+
+        case '509.0':
+            return "-15 5 7"
+
+        case '609.0':
+            return "-15 6 7"
+
+        case '709.0':
+            return "-15 7 7"
+
+        case '809.0':
+            return "-15 8 7"
+
+        case '909.0':
+            return "-15 9 7"
+
+        case '1009.0':
+            return "-15 10 7"
 
         case '10.0':
             return "-15 0 6"
@@ -855,6 +1515,36 @@ export default function (num) {
         case '10.30':
             return "15 0 6"
 
+        case '1010.0':
+            return "-15 1 6"
+
+        case '2010.0':
+            return "-15 2 6"
+
+        case '3010.0':
+            return "-15 3 6"
+
+        case '4010.0':
+            return "-15 4 6"
+
+        case '5010.0':
+            return "-15 5 6"
+
+        case '6010.0':
+            return "-15 6 6"
+
+        case '7010.0':
+            return "-15 7 6"
+
+        case '8010.0':
+            return "-15 8 6"
+
+        case '9010.0':
+            return "-15 9 6"
+
+        case '10010.0':
+            return "-15 10 6"
+
         case '11.0':
             return "-15 0 5"
         case '11.1':
@@ -918,6 +1608,36 @@ export default function (num) {
         case '11.30':
             return "15 0 5"
 
+        case '1011.0':
+            return "-15 1 5"
+
+        case '2011.0':
+            return "-15 2 5"
+
+        case '3011.0':
+            return "-15 3 5"
+
+        case '4011.0':
+            return "-15 4 5"
+
+        case '5011.0':
+            return "-15 5 5"
+
+        case '6011.0':
+            return "-15 6 5"
+
+        case '7011.0':
+            return "-15 7 5"
+
+        case '8011.0':
+            return "-15 8 5"
+
+        case '9011.0':
+            return "-15 9 5"
+
+        case '10011.0':
+            return "-15 10 5"
+
         case '12.0':
             return "-15 0 4"
         case '12.1':
@@ -980,6 +1700,36 @@ export default function (num) {
             return "14 0 4"
         case '12.30':
             return "15 0 4"
+
+        case '1010.0':
+            return "-15 1 6"
+
+        case '2010.0':
+            return "-15 2 6"
+
+        case '3010.0':
+            return "-15 3 6"
+
+        case '4010.0':
+            return "-15 4 6"
+
+        case '5010.0':
+            return "-15 5 6"
+
+        case '6010.0':
+            return "-15 6 6"
+
+        case '7010.0':
+            return "-15 7 6"
+
+        case '8010.0':
+            return "-15 8 6"
+
+        case '9010.0':
+            return "-15 9 6"
+
+        case '10010.0':
+            return "-15 10 6"
 
         case '13.0':
             return "-15 0 3"
